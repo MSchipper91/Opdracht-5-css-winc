@@ -1,0 +1,56 @@
+header {
+  padding-top: 20px;
+  padding-bottom: 20px;
+  padding-left: 30px;
+  padding-right: 30 px;
+
+  padding: 20px, 30px, 20px, 30 px;
+
+  border: 3px solid salmon;
+  width: 70%;
+  margin: auto;
+  margin-top: 50px;
+  margin-bottom: 15px;
+
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+
+main {
+  padding-top: 20px;
+  padding-bottom: 20px;
+  padding-left: 30px;
+  padding-right: 30 px;
+
+  padding: 20px, 30px, 20px, 30 px;
+
+  border: 3px solid steelblue;
+  width: 70%;
+  margin: auto;
+  margin-top: 15px;
+  margin-bottom: 15px;
+
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.navbar {
+  display: inline;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.navbar a {
+  display: inline;
+  color: midnightblue;
+  text-align: center;
+  padding: 15px 17px;
+  text-decoration: none;
+  background-color: darkgray;
+}
+
+.navbar a:hover {
+  background-color: darkgreen;
+  color: white;
+}
